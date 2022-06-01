@@ -1,0 +1,6 @@
+{
+  "name": "Deploy Botten",
+  "description": "Waking up the botten",
+  "repository": "https://github.com/16-bitten/botten",
+  "keywords": ["node", "express", "static"]
+}
